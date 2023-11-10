@@ -11,7 +11,7 @@ We're thrilled to announce new plans catering to each user's needs: Free, Basic,
 
 To provide you with a more versatile experience, we've increased the available chat modes from 15 to 30. Explore a broader range of options to enhance your interactions with GPT Prompter.
 
-# Improvements & Fix
+# Improvements & Fixes
 
 - Fix for Long ChatGPT Responses
 
