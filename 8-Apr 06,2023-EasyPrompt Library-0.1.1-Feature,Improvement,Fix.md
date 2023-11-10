@@ -4,7 +4,7 @@ Discover the hottest prompts with our new trending section in the search feature
 # Log in with Twitter
 You can now conveniently log in to EasyPrompt Library using your Twitter account. Enjoy a seamless authentication process!
 
-# Improvements & Fix
+# Improvements & Fixes
 - Formatting Options for Detailed Prompts
   
   We've added formatting options for detailed prompts, giving you more control over how you present your content. Customize and enhance your prompts with ease!
