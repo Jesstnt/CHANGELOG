@@ -12,4 +12,4 @@ We're excited to introduce the beta release of GPT Prompter Bot, a ChatGPT Teleg
 
 ## Introducing Built-in Chatmodes
 
-We've taken your conversations to the next level by integrating prompts from the renowned Awesome ChatGPT collection as built-in chatmodes. Choose from options like Code Assistant for application development or Copywriting mode for persuasive copy creation. These chatmodes enhance your chatGPT experience, providing tailored responses based on your chosen context.
+We've taken your conversations to the next level by integrating prompts from the renowned [Awesome ChatGPT prompts collection](https://github.com/f/awesome-chatgpt-prompts) as built-in chatmodes. Choose from options like Code Assistant for application development or Copywriting mode for persuasive copy creation. These chatmodes enhance your chatGPT experience, providing tailored responses based on your chosen context.
