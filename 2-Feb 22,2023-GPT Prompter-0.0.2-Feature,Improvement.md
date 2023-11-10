@@ -7,5 +7,5 @@ We've optimized prompts in the current chat modes by implementing megaprompts fo
 - `/donate` - Buy our bot creators a coffee and show your support!
 - `/feedback` - Share your valuable feedback with us. We're always open to suggestions and eager to make improvements.
 
-# Improvement
+# Improvements & Fixes
 - Updated the welcome message to provide clearer guidance on how to get started with the bot.
