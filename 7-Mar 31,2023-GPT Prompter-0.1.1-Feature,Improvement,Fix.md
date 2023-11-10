@@ -4,7 +4,7 @@ Now, users can invite friends to use the bot and earn AI credits, allowing them 
 # Reward Plan for Community Tasks
 Introducing a new reward plan! Users who complete community tasks can now earn up to 100k chatGPT tokens. Engage with the community and reap the benefits!
 
-# Improvements & Fix
+# Improvements & Fixes
 - Updated Welcome Message
 
   We've revamped the welcome message to provide users with comprehensive information about the bot's capabilities. This enhancement aims to give users a better understanding of what the bot can do from the start.
